@@ -1,0 +1,23 @@
+ #map-container {
+position: relative;
+padding-top: 100px;
+ height: 700px;
+ width: relative;
+
+ }
+																				  
+ #map {
+position: relative;
+ height: inherit;
+width: inherit;
+		}
+#header{
+	position: relative;
+	bottom: 0px;
+	height: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	width: relative;
+}
+
+ 
